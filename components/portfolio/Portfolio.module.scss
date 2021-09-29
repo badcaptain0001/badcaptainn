@@ -1,0 +1,14 @@
+.port {
+  margin: 0 20px;
+  padding: 80px 0;
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  .tag {
+    font-weight: bold;
+    font-size: 25px;
+  }
+}

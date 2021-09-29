@@ -1,0 +1,15 @@
+$main-color: #ff7315;
+.main {
+  background-color: $main-color;
+  .nav_bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 56px;
+    margin: 0 20px;
+
+    .menuicon {
+      color: white;
+    }
+  }
+}

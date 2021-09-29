@@ -1,0 +1,17 @@
+.project {
+  text-align: center;
+  background-color: #ff7315;
+  border-radius: 35px;
+  padding: 20px 0px;
+  color: white;
+
+  .desc {
+    margin: 0 20px;
+  }
+  .rating {
+    h4 {
+      font-weight: 400;
+      font-size: 20px;
+    }
+  }
+}
